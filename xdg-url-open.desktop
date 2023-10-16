@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=xdg-url-open
+Exec=xdg-url-open %F
+Terminal=true
+Type=Application
+Categories=Utility;
+MimeType=x-scheme-handler/http;x-scheme-handler/https;
